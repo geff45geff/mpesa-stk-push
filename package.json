@@ -1,0 +1,24 @@
+{
+  "name": "mpesa-stk-push",
+  "version": "1.0.0",
+  "description": "Simple M-Pesa STK Push Web App using Node.js and Daraja API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mpesa",
+    "stk-push",
+    "nodejs",
+    "daraja",
+    "safaricom"
+  ],
+  "author": "geff45geff",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "moment": "^2.30.1"
+  }
+}
